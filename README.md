@@ -1,6 +1,6 @@
 <html>
 
-<h1><strong> Information about the academic </strong><h1>
+<h1><strong> Information about the academic </strong></h1>
 
 <p>
 
