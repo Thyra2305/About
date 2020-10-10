@@ -2,7 +2,7 @@
 
 <h1><strong> Information about the academic </strong></h1> 
 
-<img src="/Thyra2305/About/blob/main/Thyra.png?raw=true" alt="Thyra.png">
+<img style="-webkit-user-select: none;margin: auto;" src="https://raw.githubusercontent.com/Thyra2305/About/main/Thyra.png?token=ARCO46VBZCMRURJVE6ARBL27QGQXU">
 
 <p>
 
